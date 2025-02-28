@@ -4,10 +4,23 @@ body {
     background-size: cover;
     color: #ecf0f1;
     font-family: "Roboto Condensed", serif;
+    margin: 0;
+    padding: 0;
     
+}
+
+nav {
+    margin: 14px 16px;
 }
 main {
     width: 90%;
     margin: 0 auto;
     margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    bottom: 10px;
+    position: absolute;
+    width: 100%;
 }
