@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/joshua-kettle-MbrDHQfskuQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ecf0f1;
+    font-family: "Roboto Condensed", serif;
+    
+}
+main {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
